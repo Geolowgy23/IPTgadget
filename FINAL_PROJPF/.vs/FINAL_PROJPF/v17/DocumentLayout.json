@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FINAL_PROJPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|d:\\final_projpf\\final_projpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|solutionrelative:final_projpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|D:\\FINAL_PROJPF\\FINAL_PROJPF\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|solutionrelative:FINAL_PROJPF\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|D:\\FINAL_PROJPF\\FINAL_PROJPF\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|solutionrelative:FINAL_PROJPF\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|D:\\FINAL_PROJPF\\FINAL_PROJPF\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|solutionrelative:FINAL_PROJPF\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|D:\\FINAL_PROJPF\\FINAL_PROJPF\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|solutionrelative:FINAL_PROJPF\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|D:\\FINAL_PROJPF\\final_projpf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|solutionrelative:final_projpf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|D:\\FINAL_PROJPF\\FINAL_PROJPF\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DA507EBD-8CD1-4D7A-83B7-0B8DC3C639E1}|FINAL_PROJPF\\FINAL_PROJPF.csproj|solutionrelative:FINAL_PROJPF\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\App.config",
+              "RelativeDocumentMoniker": "FINAL_PROJPF\\App.config",
+              "ToolTip": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\App.config",
+              "RelativeToolTip": "FINAL_PROJPF\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T01:32:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FINAL_PROJPF\\Form1.Designer.cs",
+              "ToolTip": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Form1.Designer.cs",
+              "RelativeToolTip": "FINAL_PROJPF\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:31:40.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Form1.cs",
+              "RelativeDocumentMoniker": "FINAL_PROJPF\\Form1.cs",
+              "ToolTip": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Form1.cs",
+              "RelativeToolTip": "FINAL_PROJPF\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:57:25.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Program.cs",
+              "RelativeDocumentMoniker": "FINAL_PROJPF\\Program.cs",
+              "ToolTip": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Program.cs",
+              "RelativeToolTip": "FINAL_PROJPF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:32:29.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "FINAL_PROJPF\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "FINAL_PROJPF\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:32:35.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Form1.cs",
+              "RelativeDocumentMoniker": "FINAL_PROJPF\\Form1.cs",
+              "ToolTip": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\Form1.cs [Design]",
+              "RelativeToolTip": "FINAL_PROJPF\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:57:27.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\README.md",
+              "RelativeDocumentMoniker": "FINAL_PROJPF\\README.md",
+              "ToolTip": "D:\\FINAL_PROJPF\\FINAL_PROJPF\\README.md",
+              "RelativeToolTip": "FINAL_PROJPF\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-26T06:57:26.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
